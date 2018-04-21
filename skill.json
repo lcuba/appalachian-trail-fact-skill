@@ -1,36 +1,21 @@
 {
-  "skillManifest": {
+  "manifest": {
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Learn fun facts about space.",
+          "summary": "Learn many facts about the Appalachian Trail.",
           "examplePhrases": [
-            "Alexa open space facts",
-            "Alexa ask space facts for a fact",
-            "Alexa tell space facts to tell me trivia"
+            "Alexa open appalachian trail facts",
+            "Alexa ask appalachian trail facts for a fact",
+            "Alexa tell appalachian trail facts to tell me trivia"
           ],
           "keywords": [
-            "space",
-            "facts",
-            "trivia"
+            "Appalachian",
+            "trail",
+            "facts"
           ],
-          "name": "Space Facts",
-          "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
-        },
-        "en-GB": {
-          "summary": "Listen to My Radio, less bla bla bla, more la la la.",
-          "examplePhrases": [
-            "Alexa, open My Radio",
-            "Alexa, play My Radio",
-            "Alexa, ask My Radio to play"
-          ],
-          "keywords": [
-            "music",
-            "streaming",
-            "radio"
-          ],
-          "name": "My Radio",
-          "description": "Listen to My Radio, with less bla bla bla, and more la la la.\n\nMy Radio provides a high quality sound 24/7 with the best music.\n\nTo start, just say \"Alexa, launch My Radio\" or \"Alexa, play my radio\" to start the radio\".\n\nAt anytime, you can stop the radio by saying \"Alexa, stop\""
+          "name": "Appalachian Trail Facts",
+          "description": "In this skill, and learn information about the longest marked hiking trail in America, the Appalachian Trail.\n\nAppalachian Trail Facts is informative and inspiring; you may just want to go on a hike yourself after hearing a few facts!\n\nTo start, just say \"Alexa, launch Appalachian Trail Facts\" or \"Alexa, open Appalachian Trail Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         }
       },
       "isAvailableWorldwide": true,
